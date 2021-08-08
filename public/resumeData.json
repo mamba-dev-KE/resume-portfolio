@@ -1,46 +1,35 @@
 {
   "main": {
-    "name": "Joseph Maramba Weyao",
-    "occupation": "Freelance Frontend Developer",
-    "description": "Meaningful work, for a better world",
+    "name": "Joseph Maramba",
+    "occupation": "Frontend Developer",
+    "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
+    "bio": "Hi there! I am Joseph! I am a software engineer with skills and experience in frontend technologies and how they can be leveraged to solve business and professional problems. I have extensive knowledge in frontend development, website deployment and maintenance, application testing and debugging, user requirements analysis, and web content development. I am proficient in HTML, CSS, and JavaScript and associated technologies and frameworks such as SASS, Tailwindcss, Reactjs, and Nextjs. I am currently looking to join an organization that will leverage my skills and facilitate my professional development in the field of frontend development.",
+    "contactmessage": "Get in touch with me!",
+    "email": "josephmaramba50@gmail.com",
     "phone": "+254716445491",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "Nairobi",
+      "street": "Embakasi",
+      "city": "Nairobi, Kenya",
       "state": "",
       "zip": "00100"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://www.dropbox.com/s/qapyo8pnh7siqz0/Joseph__Maramba_-_Resume.pdf?dl=0",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UC0dL9Wcslp1is1qWJs1WoDw",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
+        "name": "github",
+        "url": "https://github.com/mamba-dev-KE",
+        "className": "fa fa-github"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/joseph-maramba-weyao-28548972/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "facebook",
+        "url": "https://www.facebook.com/maramba.weyao/",
+        "className": "fa fa-facebook"
       }
     ]
   },
@@ -48,28 +37,28 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "The University of Nairobi",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "September, 2017",
+        "description": "Graduated with Second Class Honours."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Freelance Frontend Developer",
+        "title": "Programmer",
+        "years": "Jan 2020 - Present",
+        "description": "Working on a variety of projects for freelance clients."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "65%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "NextJS",
+        "level": "65%"
       },
       {
         "name": "Git",
@@ -77,10 +66,10 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "70%"
       },
       {
-        "name": "Web Development",
+        "name": "HTML & CSS",
         "level": "95%"
       }
     ]
@@ -88,34 +77,24 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Airbnb Clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "airbnb.jpg",
+        "url": "https://airbnb-clone-dun.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Excursion Landing Page",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "excursion.jpeg",
+        "url": "https://mamba-dev-ke.github.io/excursion-project/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Joseph went above and beyond with my POS project. I highly recommend him to any prospective clients.",
+        "user": "Sam Okemwa"
       }
     ]
   }
